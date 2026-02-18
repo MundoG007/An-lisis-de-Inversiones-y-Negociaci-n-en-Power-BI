@@ -201,7 +201,8 @@ Esto explica por qué el equipo crece pero la productividad cae - alta rotación
 | Zonas que deben **crecer** para C14 | 13 de 17 (**76%**) |
 | Crecimiento promedio requerido | **+6.8%** |
 
-**[INSERTAR AQUÍ: gap-meta-zona.png]**  
+<img width="1303" height="735" alt="image" src="https://github.com/user-attachments/assets/a43b50a7-4784-486a-8811-508f5b80be70" />
+
 *Gráfico de barras horizontales mostrando el gap de meta por zona (rojo = no cumple, verde = cumple)*
 
 #### ¿Por qué NO es factible?
@@ -227,7 +228,8 @@ Con 50%+ de abandono en primeros 6 pedidos, la base es muy volátil.
 
 ## Tabla Detallada: Análisis por Zona
 
-**[INSERTAR AQUÍ: tabla-factibilidad.png]**  
+**<img width="507" height="422" alt="image" src="https://github.com/user-attachments/assets/bbf81633-bc12-4595-b6ff-8410ebdf3d4d" />
+**  
 *Tabla completa mostrando las 17 zonas con FdV Real C13, Meta C14, % Crecimiento Requerido y Estado*
 
 | Zona | FdV Real C13 | Meta C14 | Crecimiento Requerido | Estado |
@@ -427,24 +429,7 @@ Porcentaje de cumplimiento de la meta de ventas.
 2. 📚 Base de conocimiento de mejores prácticas
 3. 🎓 Programa de capacitación continua certificado
 
----
 
-## Estructura del Proyecto
-
-```
-shark-tank-analysis/
-│
-├── README.md                           # Este archivo
-├── images/                             # Carpeta con capturas de Power BI
-│   ├── dashboard-general.png
-│   ├── comparativo-2018-2019.png
-│   ├── analisis-problemas.png
-│   ├── gap-meta-zona.png
-│   └── tabla-factibilidad.png
-├── Reporte_SharkTank_Adjunto1.docx    # Reporte completo (16 páginas)
-├── Guia_Reporte_SharkTank_Adjunto1.md # Guía de visualizaciones
-├── Solucion_Linea_Recta.md            # Troubleshooting
-└── Columnas_Nuevas_Creadas.md         # Documentación técnica
 ```
 
 ---
@@ -457,18 +442,9 @@ Los datos demuestran claramente que aunque la región tiene fortalezas (alto % d
 2. **Implementar acciones** de mejora de PMNP y retención
 3. **Reevaluar** en 3 meses basado en resultados medibles
 
----
-
-## Contacto
-
-**Proyecto**: Caso Shark Tank - Análisis Regional  
-**Herramientas**: Power BI Desktop, DAX, MCP  
-**Fecha**: Febrero 2026
-
-Para preguntas sobre medidas DAX, modelado o conclusiones, contacta directamente.
 
 ---
 
 ## Licencia
 
-Este proyecto es parte de un caso de estudio académico con fines educativos.
+Estos datos fueron generados con Inteligencia Artifical

@@ -1,4 +1,4 @@
-# Análisis de Caso Shark Tank - Evaluación Regional y Factibilidad de Metas
+# Análisis de Evaluación Regional y Factibilidad de Metas
 
 ## Resumen Ejecutivo
 

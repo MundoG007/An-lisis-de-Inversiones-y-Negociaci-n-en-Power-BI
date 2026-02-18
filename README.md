@@ -14,7 +14,7 @@ La conversión de ventas ha sido baja en nuestra región, y necesitamos determin
 
 Las ventas completadas son esenciales para esta región de venta directa, ya que están directamente vinculadas a los ingresos. Los stakeholders de producto y ventas han notado que la región tiene una **tasa de conversión más baja** de lo esperado (basado en consultoras activas vs ventas reales). ¿Cómo podemos determinar dónde están cayendo las consultoras en el embudo de ventas y hacer ajustes estratégicos para motivarlas a completar más pedidos?
 
-![Resultados Dashboard](https://github.com/MundoG007/An-lisis-de-Inversiones-y-Negociaci-n-en-Power-BI/blob/main/dashboard-general.png.png?raw=true)
+![dashboard-general](https://github.com/MundoG007/An-lisis-de-Inversiones-y-Negociaci-n-en-Power-BI/blob/main/dashboard-general.png.png?raw=true)
 
 ---
 
@@ -74,7 +74,8 @@ Este análisis mostró que:
 3. **El PMNP cayó S/ 10** por pedido, reduciendo ingresos a pesar de más actividad
 4. **Más del 50% de consultoras nuevas** abandonan antes de los 6 pedidos
 
-**[INSERTAR AQUÍ: analisis-problemas.png]**  
+[**[INSERTAR AQUÍ: analisis-problemas.png]** ](https://github.com/MundoG007/An-lisis-de-Inversiones-y-Negociaci-n-en-Power-BI/blob/main/analisis-problemas.png?raw=true)
+
 *Dashboard de análisis de problemas mostrando evolución de PMNP, % Actividad, PEGs e indicadores de retención*
 
 ### Impacto en Revenue

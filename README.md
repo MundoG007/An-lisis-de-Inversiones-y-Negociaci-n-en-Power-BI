@@ -74,7 +74,7 @@ Este análisis mostró que:
 3. **El PMNP cayó S/ 10** por pedido, reduciendo ingresos a pesar de más actividad
 4. **Más del 50% de consultoras nuevas** abandonan antes de los 6 pedidos
 
-[**[INSERTAR AQUÍ: analisis-problemas.png]** ](https://github.com/MundoG007/An-lisis-de-Inversiones-y-Negociaci-n-en-Power-BI/blob/main/analisis-problemas.png?raw=true)
+![analisis-problemas](https://github.com/MundoG007/An-lisis-de-Inversiones-y-Negociaci-n-en-Power-BI/blob/main/analisis-problemas.png?raw=true)
 
 *Dashboard de análisis de problemas mostrando evolución de PMNP, % Actividad, PEGs e indicadores de retención*
 
